@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1ab1b834-daa2-4e7f-aa90-d8a4c6850b47/resourceGroups/my-web-resource-grp/providers/Microsoft.Web/sites/my-e-com-app",
+    "appService.deploySubpath": "bin"
+}
